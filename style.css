@@ -1,0 +1,27 @@
+.lebron{
+    height: 350px;
+}
+main{
+   background-color: rgb(14, 13, 12); 
+   
+   color: rgb(52, 150, 23);
+}
+
+.foto{
+    height: 250px;
+}
+
+header{
+   background-color: rgb(139, 65, 173); 
+   height: 300px ;
+   color: rgb(22, 185, 177);
+}
+footer{
+   background-color: rgb(38, 28, 182); 
+   height: 400px ;
+   color: rgb(255, 255, 255);
+}
+
+.logotipo{
+height: 300px;
+}
